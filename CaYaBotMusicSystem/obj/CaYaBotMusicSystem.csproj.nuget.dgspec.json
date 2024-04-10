@@ -1,0 +1,93 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\cagan\\source\\repos\\CaYaBotMusicSystem\\CaYaBotMusicSystem\\CaYaBotMusicSystem.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\cagan\\source\\repos\\CaYaBotMusicSystem\\CaYaBotMusicSystem\\CaYaBotMusicSystem.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\cagan\\source\\repos\\CaYaBotMusicSystem\\CaYaBotMusicSystem\\CaYaBotMusicSystem.csproj",
+        "projectName": "CaYaBotMusicSystem",
+        "projectPath": "C:\\Users\\cagan\\source\\repos\\CaYaBotMusicSystem\\CaYaBotMusicSystem\\CaYaBotMusicSystem.csproj",
+        "packagesPath": "C:\\Users\\cagan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cagan\\source\\repos\\CaYaBotMusicSystem\\CaYaBotMusicSystem\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\cagan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://contoso.com/packages/": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "Discord.Net.WebSocket": {
+              "target": "Package",
+              "version": "[3.14.1, )"
+            },
+            "NAudio": {
+              "target": "Package",
+              "version": "[2.2.1, )"
+            },
+            "NReco.VideoConverter": {
+              "target": "Package",
+              "version": "[1.2.1, )"
+            },
+            "Opus": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "YoutubeExplode": {
+              "target": "Package",
+              "version": "[6.3.13, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,4 @@
+C:\Users\cagan\source\repos\CaYaBotMusicSystem\CaYaBotMusicSystem\bin\Release\net6.0-windows\publish\win-x64\CaYaBotMusicSystem.pdb
+C:\Users\cagan\source\repos\CaYaBotMusicSystem\CaYaBotMusicSystem\bin\Release\net6.0-windows\publish\win-x64\libsodium.dll
+C:\Users\cagan\source\repos\CaYaBotMusicSystem\CaYaBotMusicSystem\bin\Release\net6.0-windows\publish\win-x64\opus.dll
+C:\Users\cagan\source\repos\CaYaBotMusicSystem\CaYaBotMusicSystem\bin\Release\net6.0-windows\publish\win-x64\CaYaBotMusicSystem.exe
